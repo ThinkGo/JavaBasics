@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaBasics.iml" filepath="$PROJECT_DIR$/JavaBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FullStack.iml" filepath="$PROJECT_DIR$/FullStack.iml" />
       <module fileurl="file://$PROJECT_DIR$/j8/j8.iml" filepath="$PROJECT_DIR$/j8/j8.iml" />
     </modules>
   </component>
